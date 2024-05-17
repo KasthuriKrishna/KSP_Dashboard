@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KSP_Dashboard/static/css/main.1b3427ae.css",
+    "main.js": "/KSP_Dashboard/static/js/main.2c8a8330.js",
+    "static/js/453.81ef0fcb.chunk.js": "/KSP_Dashboard/static/js/453.81ef0fcb.chunk.js",
+    "static/media/kspback.mp4": "/KSP_Dashboard/static/media/kspback.e6fcb6ff32306e9aa420.mp4",
+    "static/media/image-1.png": "/KSP_Dashboard/static/media/image-1.b743c14ca5b81bf4d459.png",
+    "static/media/dsp.jpg": "/KSP_Dashboard/static/media/dsp.4f7215a04d18397a97ef.jpg",
+    "static/media/Acp.jpg": "/KSP_Dashboard/static/media/Acp.ed0dc312a4398115b50d.jpg",
+    "static/media/images.png": "/KSP_Dashboard/static/media/images.501fbc54c70ef72be041.png",
+    "static/media/PI_flowchart.png": "/KSP_Dashboard/static/media/PI_flowchart.a5e1a4adab22d000eb5a.png",
+    "static/media/watermark.png": "/KSP_Dashboard/static/media/watermark.d474a26026d111f60c77.png",
+    "index.html": "/KSP_Dashboard/index.html",
+    "main.1b3427ae.css.map": "/KSP_Dashboard/static/css/main.1b3427ae.css.map",
+    "main.2c8a8330.js.map": "/KSP_Dashboard/static/js/main.2c8a8330.js.map",
+    "453.81ef0fcb.chunk.js.map": "/KSP_Dashboard/static/js/453.81ef0fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b3427ae.css",
+    "static/js/main.2c8a8330.js"
+  ]
+}
